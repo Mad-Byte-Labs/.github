@@ -44,7 +44,7 @@ The examples below reflect his work across previous teams and client engagements
 
 **Have a project in mind?** Share your goals, target platforms, current development stage, and the engineering support you need.
 
-**Hiring or exploring a collaboration?** See Dmytro's [resume and portfolio](https://www.madbytelabs.com/dmytro/) for experience relevant to senior Unity engineering, technical leadership, and software architecture roles.
+**Hiring or exploring a collaboration?** See [resume and portfolio](https://www.madbytelabs.com/dmytro/) for experience relevant to senior Unity engineering, technical leadership, and software architecture roles.
 
 **Email:** [madbytelabs@gmail.com](mailto:madbytelabs@gmail.com)  
 **Website:** [madbytelabs.com](https://madbytelabs.com)  
